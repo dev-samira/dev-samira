@@ -1,17 +1,15 @@
 # Oii, eu sou a Samira! 👋
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🎯 Focada em Front-End (HTML, CSS, JavaScript)  
-🌱 Iniciando na programação com HTML e lógica — em breve: CSS, JavaScript e Git/GitHub  
-📚 Compartilhando minha jornada como dev iniciante  
-🧠 Em busca de um estágio na área de desenvolvimento  
-🤝 Vamos conectar? Me chama!
+💻 Estudante de Análise e Desenvolvimento de Sistemas
+🎯 Interesse em desenvolvimento Front-End (HTML, CSS, JavaScript)
+🌱 No início da minha jornada, aprendendo lógica de programação e Git/GitHub
+🧠 Buscando oportunidades de estágio para colocar em prática meus conhecimentos e crescer na área de tecnologia
+🤝 Aberta a conexões e trocas de conhecimento
 
 ## 📝 Uma breve apresentação
 
 - 🏠 Moro em **Taboão da Serra - SP**  
 - 🎂 Tenho **20 anos**  
-- 📅 Comecei a estudar programação em **21/09/2024**, mas decidi focar com mais consistência e prática **a partir de 2025**
 
 ### 📚 Estudando atualmente:
 
@@ -25,5 +23,8 @@
 
 ### 🌐 Onde me encontrar:
 - 📫 Email: *dev.samiracosta@gmail.com*
+- 💼 LinkedIn: *Samira Costa* (https://www.linkedin.com/in/samira-costa-3bb89a294) 
+
+
 
 ✨ Obrigada por visitar meu perfil! Vamos crescer juntas na programação 🚀
