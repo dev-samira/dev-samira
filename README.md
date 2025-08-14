@@ -1,9 +1,13 @@
 # Oii, eu sou a Samira! 👋
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
+
 🎯 Interesse em desenvolvimento Front-End (HTML, CSS, JavaScript)
+
 🌱 No início da minha jornada, aprendendo lógica de programação e Git/GitHub
+
 🧠 Buscando oportunidades de estágio para colocar em prática meus conhecimentos e crescer na área de tecnologia
+
 🤝 Aberta a conexões e trocas de conhecimento
 
 ## 📝 Uma breve apresentação
